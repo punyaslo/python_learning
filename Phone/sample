@@ -1,3 +1,0 @@
-import Phone
-Phone.function1()
-Phone.function2()
